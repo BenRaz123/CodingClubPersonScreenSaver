@@ -1,0 +1,9 @@
+README.pdf
+.idea/
+__pycache__/
+*.DS_Store
+partial_movie_files/
+texts/
+Tex/
+Images/
+OCRA*
